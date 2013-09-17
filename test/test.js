@@ -1,4 +1,3 @@
-/*jshint multistr:true */
 var sass = require('../sass');
 var assert = require('assert');
 var path = require('path');
@@ -116,7 +115,7 @@ describe("compile file with include paths", function(){
       error: function (error) {
         done(error);
       }
-    })
+    });
   });
 });
 

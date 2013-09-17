@@ -1,4 +1,3 @@
-/*jshint multistr:true */
 var sass = require('../sass');
 var assert = require('assert');
 
