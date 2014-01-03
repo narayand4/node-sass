@@ -45,6 +45,7 @@
     "nan": "~0.6.0"
   },
   "devDependencies": {
-    "jshint": "~2.4.0"
+    "jshint": "~2.4.0",
+    "node-cpplint": "~0.1.5"
   }
 }
