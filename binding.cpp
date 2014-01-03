@@ -1,3 +1,5 @@
+// Copyright 2013 Andrew Nesbitt
+
 #include <nan.h>
 #include <string>
 #include <cstring>

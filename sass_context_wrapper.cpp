@@ -1,3 +1,5 @@
+// Copyright 2013 Andrew Nesbitt
+
 #include "sass_context_wrapper.h"
 #include <cstdlib>
 

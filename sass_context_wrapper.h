@@ -1,3 +1,5 @@
+// Copyright 2013 Andrew Nesbitt
+
 #include "libsass/sass_interface.h"
 #include <nan.h>
 
